@@ -1,0 +1,12 @@
+https://portswigger.net/web-security/csrf
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
+https://www.imperva.com/learn/application-security/csrf-cross-site-request-forgery/
+https://owasp.org/www-community/attacks/csrf
+https://www.youtube.com/watch?v=13QPmRuhbhU
+https://www.youtube.com/watch?v=hW2ONyxAySY
+https://www.youtube.com/watch?v=dMwxIHIabeg
+https://www.youtube.com/watch?v=MBOMBZS2u-I
+https://www.synopsys.com/glossary/what-is-csrf.html
+https://www.acunetix.com/blog/articles/cross-site-request-forgery/
+https://www.netsparker.com/blog/web-security/csrf-cross-site-request-forgery/
+https://www.geeksforgeeks.org/what-is-cross-site-request-forgery-csrf/
