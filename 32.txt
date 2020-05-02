@@ -1,0 +1,10 @@
+https://blog.artis3nal.com/2018-11-05-demystifying_sop_and_csp/
+https://www.youtube.com/watch?v=tH-HG4b4GYQ
+https://devonblog.com/security/difference-between-cors-and-csp-security-headers/
+https://stackoverflow.com/questions/39488241/what-is-the-difference-between-cors-and-csps
+https://colorblindprogramming.com/csp-sri-and-cors
+https://www.youtube.com/watch?v=JVZIhCVFJ9c
+https://3alam.pro/1337r00t/articles/cors-sop
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
+https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/
