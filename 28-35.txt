@@ -1,0 +1,39 @@
+1) Reflected XSS :
+
+-https://blog.sqreen.com/reflected-xss/
+-https://portswigger.net/web-security/cross-site-scripting/reflected
+-https://owasp.org/www-community/attacks/xss/
+-https://security.stackexchange.com/questions/65142/what-is-reflected-xss
+-https://dzone.com/articles/reflected-xss-explained-how-to-prevent-reflected-x
+-https://excess-xss.com/ ##
+- https://www.youtube.com/watch?v=9xyRKZbv5kQ :)
+- https://www.youtube.com/watch?v=IuzU4y-UjLw
+- https://www.youtube.com/watch?v=cWu_FJUrH5Y
+- https://www.youtube.com/watch?v=0yyi8RVfJ-w
+
+2) Stored xss :
+
+-https://www.youtube.com/watch?v=cbmBDiR6WaY
+-https://www.imperva.com/learn/application-security/cross-site-scripting-xss-attacks/
+-https://portswigger.net/web-security/cross-site-scripting/stored
+-https://www.youtube.com/watch?v=95pUnFqBuIQ
+-https://owasp.org/www-community/Types_of_Cross-Site_Scripting
+-https://medium.com/@onehackman/learning-xss-part-2-stored-xss-85019aae41a9
+-https://www.aptive.co.uk/blog/xss-cross-site-scripting/
+-https://en.wikipedia.org/wiki/Cross-site_scripting
+-https://www.netsparker.com/blog/web-security/cross-site-scripting-xss/
+
+3) DOM XSS:
+
+-https://owasp.org/www-community/attacks/DOM_Based_XSS
+-http://www.webappsec.org/projects/articles/071105.shtml
+-https://cheatsheetseries.owasp.org/cheatsheets/DOM_based_XSS_Prevention_Cheat_Sheet.html
+-https://portswigger.net/web-security/cross-site-scripting/dom-based
+-https://www.netsparker.com/blog/web-security/dom-based-cross-site-scripting-vulnerability/
+-https://www.acunetix.com/blog/articles/dom-xss-explained/
+-https://www.youtube.com/watch?v=j4nNx6IpWnk
+-https://www.hacksplaining.com/prevention/xss-dom PROTECTION
+-https://www.youtube.com/watch?v=UFlF3F-XOG4
+-https://www.neuralegion.com/dom-xss-what-is-dom-based-cross-site-scripting-and-how-can-you-prevent-it/
+
+
