@@ -1,0 +1,21 @@
+1- Introduction to Github 
+
+Git is a version control system , when developers create something (ann app for  example )
+and need to make constant changes to the code 
+Repository : Is a location where all the project file stored
+
+2- Github for Bug Bounty
+
+Github is a great resource for bug bounty hunter to knoe more about the target, you can know 
+alot of information about tje company infrastructure, products and internal details that can use later 
+ 
+3- Finding Sensitive Information Leaks 
+
+a. manual approach
+This can be done by searching for a specific keywords in github search area
+like : "company " password, key, secret, pass, ConnectionStrings .... etc
+
+b. Automation Approach
+you can use gitrab
+
+
